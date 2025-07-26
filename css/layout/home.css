@@ -1,0 +1,22 @@
+#home{
+  background-image: url(../../imges/hijobli.jpeg); 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 500px;
+  padding-top: 200px;
+}
+.home-tetli{
+    color:var(--secondary-color);
+    font-size: 50px;
+    padding-left: 30px;
+}
+.home-des{
+    color: var(--secondary-color);
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+@media(max-width:1105px){
+    
+}

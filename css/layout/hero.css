@@ -1,0 +1,71 @@
+aside{
+    padding-left: 50px;
+        padding-top: 20px;
+        height: 100vh;
+        background-color: var(--secondary-color);
+        max-width: 400px;
+        position: fixed;
+        left: 0;
+        top: 0;
+}
+  
+.hijabli{
+    border-radius: 100px;
+}
+.hero1 img {
+    max-width: 50px;
+    border-radius: 70px;
+    margin-top: 20px;
+}
+.hero2 img {
+    max-width: 40px;
+}.hero3 img {
+    max-width: 40px;
+    border-radius: 60px;
+}
+.hero4 img {
+    max-width: 40px;
+    border-radius: 60px;
+}
+.hero5 img {
+  max-width: 40px;
+}
+.hero{
+   align-items: center;
+   gap: 30px;
+}
+.menyu{
+    margin-top: 30px;
+    
+}
+.menyu li{
+    padding-top: 20px;
+}
+.menyu li a{
+    color: var(--main-color);
+    font-size: 30px;
+}
+
+.hero6 img{
+    max-width: 30px;
+}
+.hero7 img {
+    max-width: 30px;
+}
+.hero8 img {
+    max-width: 30px;
+}
+.hero9 img {
+    max-width: 30px;
+}
+.hero10 img {
+    max-width: 30px;
+}
+.hero11 img {
+    max-width: 30px;
+}
+@media(max-width:1105px){
+    .boshmenyu{
+         display: none;
+    }
+}
